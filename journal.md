@@ -14,5 +14,8 @@ added new boost conver due to some components requiring 5v whivh woyuld beprobla
 ![image](https://github.com/user-attachments/assets/deda32e0-835e-481b-a088-ea43b305c0a9)
 finally done with perfect wiring no more issues with esp and dataline connections
 
+![image](https://github.com/user-attachments/assets/cd4a5390-c6b2-4db1-aed6-338fccb376f4) positioning done
+
+
 
 
