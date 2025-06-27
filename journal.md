@@ -16,6 +16,9 @@ finally done with perfect wiring no more issues with esp and dataline connection
 
 ![image](https://github.com/user-attachments/assets/cd4a5390-c6b2-4db1-aed6-338fccb376f4) positioning done
 
+man first time its without drc errors ![image](https://github.com/user-attachments/assets/ff063a99-08a4-43e6-b49a-ccdc8716f0c8) just beautiful 6 hrs since morning was useful at last will use copper fill then focus on 3d case will design the one of the most beautiful music boxes over there
+
+
 
 
 
