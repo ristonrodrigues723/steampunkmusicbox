@@ -10,5 +10,6 @@ creating the schematic, migrated from easyeda pro to std its muc easierr abd i w
 ![image](https://github.com/user-attachments/assets/8baef864-ec61-47d3-854a-bc7e41f4f5c0)
 ![image](https://github.com/user-attachments/assets/4ae99e75-b766-474f-9914-ed2674924622)
 the schematic was done wrong entire hour wasted, had to replace battery holde it was parallel needed in series
+added new boost conver due to some components requiring 5v whivh woyuld beproblamatic directly
 
 
