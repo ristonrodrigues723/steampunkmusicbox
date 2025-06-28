@@ -19,7 +19,7 @@ finally done with perfect wiring no more issues with esp and dataline connection
 man first time its without drc errors ![image](https://github.com/user-attachments/assets/ff063a99-08a4-43e6-b49a-ccdc8716f0c8) just beautiful 6 hrs since morning was useful at last will use copper fill then focus on 3d case will design the one of the most beautiful music boxes over there
 
 day2 28 jun 
-total time speant -till now 4 hrs
+total time speant -till now 5 hrs
 i forgot yo add a bl module withpoput that i would only work with sd cards so did that, also had to add ther amplifier with inbuilt knob resolving conflicts wkitrh potentiometer potentiomwer will now bw used to change colors intensity or modes.
 ![image](https://github.com/user-attachments/assets/1cb3b81c-e31d-4852-83f6-a0d939a63169)
 so i verified netlist i was verifiynd all manually that was taLKING a lot of time just getting netlust asking ai to vdrify is alot fasdter i can easliy make corresctions
@@ -30,6 +30,8 @@ added p[inout for the ble model will use dupint wires for connection, the connec
 successfuly rewired schemtic needed to use switch chip(CD4053) so had to find proper one  thst lwts switch between ble audio module to df card module had to remove rewire due to problem of paral;lel connection
 ![image](https://github.com/user-attachments/assets/cb7e11c5-e4a7-47c5-9365-5f7f14cfe388)
 finall;y ![image](https://github.com/user-attachments/assets/2f1b1be3-5d57-4e52-a9f5-466bb707f1d0) got there headers and ble model addec rightlu created pcb no errors
+ gotta import rest as right models weent available![image](https://github.com/user-attachments/assets/c827c82d-fbdb-4318-a1f5-860beea5debc)
+
 
 
 
