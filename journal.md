@@ -29,6 +29,7 @@ so i verified netlist i was verifiynd all manually that was taLKING a lot of tim
 added p[inout for the ble model will use dupint wires for connection, the connection is good, so insted of 3 knobs wel have 4 2 forn psause plsy next prev 1 for vol 1 for light mode
 successfuly rewired schemtic needed to use switch chip(CD4053) so had to find proper one  thst lwts switch between ble audio module to df card module had to remove rewire due to problem of paral;lel connection
 ![image](https://github.com/user-attachments/assets/cb7e11c5-e4a7-47c5-9365-5f7f14cfe388)
+finall;y ![image](https://github.com/user-attachments/assets/2f1b1be3-5d57-4e52-a9f5-466bb707f1d0) got there headers and ble model addec rightlu created pcb no errors
 
 
 
