@@ -61,6 +61,9 @@ ok pcb rendering is taking too much time jsut stuck shouldnt hape h]from here 5-
 
 need to add the long femal pins
 
+3d case ![image](https://github.com/user-attachments/assets/073051b6-b9c3-4139-91ea-672ecc99cd8f) finished this much had to rtedi thwe 2nd extrude as drectylu punching holes for usb inpout was infesiable
+
+
 
 
 
