@@ -64,6 +64,9 @@ need to add the long femal pins
 3d case ![image](https://github.com/user-attachments/assets/073051b6-b9c3-4139-91ea-672ecc99cd8f) finished this much had to rtedi thwe 2nd extrude as drectylu punching holes for usb inpout was infesiable,
 ![image](https://github.com/user-attachments/assets/6d806ef6-3292-471b-b3a1-76d8a26b6a28) i tried fixing the port for esp tpu and df player
 
+![image](https://github.com/user-attachments/assets/1064010e-3f02-402c-9dc9-cf621541f91b) had to redo stuff
+
+
 
 
 
