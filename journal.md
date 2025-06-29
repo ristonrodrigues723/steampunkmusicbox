@@ -69,9 +69,7 @@ need to add the long femal pins
 ![image](https://github.com/user-attachments/assets/6bb7fd88-3081-4424-a112-1c268526d4bc) finished basic steampunk theamed box what remains is the additions and look enhabncements
 
 
-
-
-
+![image](https://github.com/user-attachments/assets/fc72a60d-c8c6-48f8-987f-d8554be722b5)
 
 
 
