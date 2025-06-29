@@ -32,7 +32,7 @@ successfuly rewired schemtic needed to use switch chip(CD4053) so had to find pr
 finall;y ![image](https://github.com/user-attachments/assets/2f1b1be3-5d57-4e52-a9f5-466bb707f1d0) got there headers and ble model addec rightlu created pcb no errors
  gotta import rest as right models weent available![image](https://github.com/user-attachments/assets/c827c82d-fbdb-4318-a1f5-860beea5debc)
 
- day 3 29 jun total hrs yet 4,5:
+ day 3 29 jun total hrs yet 5:
  found out all software the things libraries ill use, the no comprehensive software for me like one that letes me control boith wsdleds and the speaker too, 
  therre are pieces of software for individual like only dfplayer or only wsdled so had to learn hiw to combine both, 
  aded only my stufff to the only dfplayer code like what the rottory encoders shouls do, the pins that handel stuff,
@@ -50,6 +50,10 @@ so easyeda std is good for creating pcb but rendering models its a messs i impor
 ![image](https://github.com/user-attachments/assets/0c386472-21a9-4287-a20f-05ef78887e1a)
 
 3d render-![image](https://github.com/user-attachments/assets/0f6f8e6a-3652-48af-9c87-2293904eda30)
+
+
+3d mosels are still messed putting new mosderls from easyeda prov from 4-5 components-![image](https://github.com/user-attachments/assets/61d1ca38-5564-4d1d-93e4-46f10ff3996d)
+
 
 
 
