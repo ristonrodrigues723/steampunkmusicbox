@@ -55,6 +55,7 @@ so easyeda std is good for creating pcb but rendering models its a messs i impor
 3d mosels are still messed putting new mosderls from easyeda prov from 4-5 components-![image](https://github.com/user-attachments/assets/61d1ca38-5564-4d1d-93e4-46f10ff3996d)
 
 
+finally-![image](https://github.com/user-attachments/assets/aa7143d2-31ba-41bc-80a8-78364adf6b65) after so muxh headche
 
 
 
