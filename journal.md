@@ -32,6 +32,12 @@ successfuly rewired schemtic needed to use switch chip(CD4053) so had to find pr
 finall;y ![image](https://github.com/user-attachments/assets/2f1b1be3-5d57-4e52-a9f5-466bb707f1d0) got there headers and ble model addec rightlu created pcb no errors
  gotta import rest as right models weent available![image](https://github.com/user-attachments/assets/c827c82d-fbdb-4318-a1f5-860beea5debc)
 
+ day 3 29 jun total hrs yet 1:
+ found out all software the things libraries ill use, the no comprehensive software for me like one that letes me control boith wsdleds and the speaker too, 
+ therre are pieces of software for individual like only dfplayer or only wsdled so had to learn hiw to combine both, 
+ aded only my stufff to the only dfplayer code like what the rottory encoders shouls do, the pins that handel stuff,
+ need to add code to switch audio from n-mh28 and df pl,ayer and indiividual rotatory encoder, while balancing wsdled
+
 
 
 
