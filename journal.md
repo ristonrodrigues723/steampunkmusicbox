@@ -65,6 +65,8 @@ need to add the long femal pins
 ![image](https://github.com/user-attachments/assets/6d806ef6-3292-471b-b3a1-76d8a26b6a28) i tried fixing the port for esp tpu and df player
 
 ![image](https://github.com/user-attachments/assets/1064010e-3f02-402c-9dc9-cf621541f91b) had to redo stuff
+![image](https://github.com/user-attachments/assets/236300c6-b7df-4595-adb3-4502d3259065)still will tske ther whole day have to add accessories
+
 
 
 
