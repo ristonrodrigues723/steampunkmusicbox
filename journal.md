@@ -41,6 +41,10 @@ finall;y ![image](https://github.com/user-attachments/assets/2f1b1be3-5d57-4e52-
  added the right 3d modules fixed some more code
  ![image](https://github.com/user-attachments/assets/f80c052c-6ada-45e9-8666-9efd09a2b1b3) easy std is good no more need of importing 3d models in onshape
 
+ messse up the normal cathoe led header had to change schematic, noe the 3 colors hve own datalines with resistor no risk of short circut changed how the leds are powrred now from 3.3 insted of 5![image](https://github.com/user-attachments/assets/5a255a3b-bb54-409c-aa02-8195bde5a74c)
+ added proper 3d models but rotary nd potentiometers habe no righ one noe 3d modelling begains
+
+
 
 
 
