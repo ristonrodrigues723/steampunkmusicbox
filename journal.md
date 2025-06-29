@@ -56,6 +56,8 @@ so easyeda std is good for creating pcb but rendering models its a messs i impor
 
 
 finally-![image](https://github.com/user-attachments/assets/aa7143d2-31ba-41bc-80a8-78364adf6b65) after so muxh headche
+ok pcb rendering is taking too much time jsut stuck shouldnt hape h]from here 5-6 hrs worjt of cad remains
+
 
 
 
