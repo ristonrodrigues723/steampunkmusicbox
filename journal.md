@@ -97,6 +97,8 @@ finally-
 
 
  finishing the nets i ned to giv emore time more polish meand more work![image](https://github.com/user-attachments/assets/a7bcd324-3cb5-4ad8-b91b-c0c378b5001f)
+ the tracking for today doesnt include the time for rendering whwerin onshape was stuack a lot![image](https://github.com/user-attachments/assets/68c15722-151c-4f0a-ac26-0d8be00111ff)
+
 
 
 
