@@ -1,7 +1,12 @@
-# steampunkmusicbox
-this is steam punk retor theamed music speaker box, lets u use sd card to play song without ble, but using ble is alsopossible to play songs via phones other devices it has suppoert for local song and ble streaming, u use the rotatgory encoders to do everything u need from pausing , to playing next prev song to vol control evertything will be done via knobs or ble, its cad is good but not finished yet itll take 15 hrs more on top of 20-23 hrs already spant it also uses neopixel leds thses lifght up in pattern alomg the song, i did this as i wanted a project where i use my creative skills 
-total cost-65 including pcb and printing legion postage its 61 actually 4 is because if stuff goes out of stock and them u buya single item later there a dollar worth of dilevery fee in india .
-ill be paintinh it using metallic colors to actually paint it retro-steampunk theme copper and golden cilors weverything use 3d printed diffusers fake faux tubes, common anodes to give the vibe actaul nixie tubes and the glastubes are too expensive, wil worjk on the model till im satiesfied
+# steampunkmusicbox by ristonrodrigues aka maximus
+This is steampunk retro-themed music speaker box. It lets you use an SD card to play songs without BLE, but using BLE is also possible to play songs via phones and other devices. It supports both local song playback and BLE streaming.
+You use the rotary encoders to do everything you need from pausing, playing next-previous songs, to volume control. Everything will be done via knobs or BLE. Its CAD is good but not finished yet—it’ll take 15 more hours on top of the 20–23 hours already spent on project the code is simple ill needo iterate till i get what i want.
+
+It auses NeoPixel LEDs that light up in patterns along with the song. I did this because I wanted a project where I could use my creative skills.
+Total cost: $68 (including PCB and printing, Legion postage). It’s 65 actually ,$3 extra is because if stuff goes out of stock and you buy a single item later, there’s a delivery fee of around a dollar in India. i know this sucks
+
+I'll be painting it using metallic colors to match the retro-steampunk theme—copper and golden colors for everything. I’ll use 3D-printed diffusers, fake faux tubes, and common anodes to give the vibe—actual nixie tubes and glass tubes are too expensive.
+I'll work on the model the 3d cad  until I’m satisfied with what i have in mind.
 
 
 i want oit to actually remind what i can do using both creativity and logic
