@@ -6,7 +6,8 @@ ill be paintinh it using metallic colors to actually paint it retro-steampunk th
 
 i want oit to actually remind what i can do using both creativity and logic
 
-3d module-![image](https://github.com/user-attachments/assets/c96935fa-10d1-442e-b3c4-20657a4265d4)
+3d module-![image](https://github.com/user-attachments/assets/dd39d92e-ba42-473d-900a-4da6e6c53303)
+
 
 pcb 3d module-![image](https://github.com/user-attachments/assets/22b0cd96-78c5-499d-ac75-5933183110aa)
 
