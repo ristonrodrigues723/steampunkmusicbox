@@ -71,6 +71,8 @@ need to add the long femal pins
 
 ![image](https://github.com/user-attachments/assets/fc72a60d-c8c6-48f8-987f-d8554be722b5)
 
+day 4 30june 
+speant 45 mins o pcb rendeing of nrw features took so muvh time i am mnow trying to remove pc but if i do the entirre sketcjkh throws errords, trying to replace it with dummy enclosure
 
 
 
