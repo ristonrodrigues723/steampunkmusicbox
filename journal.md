@@ -77,6 +77,8 @@ speant 45 mins o pcb rendeing of nrw features took so muvh time i am mnow trying
 
 finished fake nixietubes![image](https://github.com/user-attachments/assets/6efe1140-8bd3-47cf-ac7f-c1b3b507bd13)
 ![image](https://github.com/user-attachments/assets/d2cf7f55-f68d-45d7-8fd3-2ff2f021b1cf)
+tried the faux tubes fake ones still prblemetic  will habe to try diff one![image](https://github.com/user-attachments/assets/47b9cfab-f4fc-4e66-9cd1-778cb270c545)
+
 
 
 
