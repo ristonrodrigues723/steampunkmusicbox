@@ -71,9 +71,12 @@ need to add the long femal pins
 
 ![image](https://github.com/user-attachments/assets/fc72a60d-c8c6-48f8-987f-d8554be722b5)
 
-day 4 30june  time 1.3 hrs
+day 4 30june  time 2
 speant 45 mins o pcb rendeing of nrw features took so muvh time i am mnow trying to remove pc but if i do the entirre sketcjkh throws errords, trying to replace it with dummy enclosure 
 ![image](https://github.com/user-attachments/assets/0c220104-5de6-433b-80b8-d8420ac84818)modifying the origninal pcb viaboolereran
+
+nixie tube like structures will put led within pla will act as diffuser![image](https://github.com/user-attachments/assets/6efe1140-8bd3-47cf-ac7f-c1b3b507bd13)
+
 
 
 
