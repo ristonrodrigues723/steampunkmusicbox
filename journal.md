@@ -92,6 +92,9 @@ tried the faux tubes fake ones still prblemetic  will habe to try diff one![imag
 ![image](https://github.com/user-attachments/assets/19f5cba2-0550-4db8-a16d-b6228e439160)
 
 finished with the faux tubes and more features ![image](https://github.com/user-attachments/assets/b173dc43-7235-4fb9-a507-c42b5d8b3b13)
+finally-
+![image](https://github.com/user-attachments/assets/84071a37-94d5-44ac-9ee3-3e5545d02d19)
+
 
  finishing the nets i ned to giv emore time more polish meand more work![image](https://github.com/user-attachments/assets/a7bcd324-3cb5-4ad8-b91b-c0c378b5001f)
 
