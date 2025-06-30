@@ -71,13 +71,16 @@ need to add the long femal pins
 
 ![image](https://github.com/user-attachments/assets/fc72a60d-c8c6-48f8-987f-d8554be722b5)
 
-day 4 30june  time 2hrs 45mins
+day 4 30june  time 3.5
 speant 45 mins o pcb rendeing of nrw features took so muvh time i am mnow trying to remove pc but if i do the entirre sketcjkh throws errords, trying to replace it with dummy enclosure 
 ![image](https://github.com/user-attachments/assets/0c220104-5de6-433b-80b8-d8420ac84818)modifying the origninal pcb viaboolereran
 
 finished fake nixietubes![image](https://github.com/user-attachments/assets/6efe1140-8bd3-47cf-ac7f-c1b3b507bd13)
 ![image](https://github.com/user-attachments/assets/d2cf7f55-f68d-45d7-8fd3-2ff2f021b1cf)
 tried the faux tubes fake ones still prblemetic  will habe to try diff one![image](https://github.com/user-attachments/assets/47b9cfab-f4fc-4e66-9cd1-778cb270c545)
+![image](https://github.com/user-attachments/assets/8dc2b7ba-f5f6-4c60-863d-58f414b08174)
+![image](https://github.com/user-attachments/assets/accf8e62-b069-4c00-bf0a-4b24b7ba9989)
+
 
 
 
