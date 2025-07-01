@@ -1,4 +1,7 @@
 # steampunkmusicbox by ristonrodrigues aka maximus
+![image](https://github.com/user-attachments/assets/5e33c750-98db-43b3-beb1-6bb2a0eb5f43)
+
+onshape link-https://cad.onshape.com/documents/727c5e770786fecd0f59b012/w/2e7aae3e3316d6b6e1322818/e/be8c28e3d3fc75a10f21504f?renderMode=0&uiState=6863fcafa845c96faba63c0f
 This is steampunk retro-themed music speaker box. It lets you use an SD card to play songs without BLE, but using BLE is also possible to play songs via phones and other devices. It supports both local song playback and BLE streaming.
 You use the rotary encoders to do everything you need from pausing, playing next-previous songs, to volume control. Everything will be done via knobs or BLE. Its CAD is good but not finished yet—it’ll take 15 more hours on top of the 20–23 hours already spent on project the code is simple ill needo iterate till i get what i want.
 
