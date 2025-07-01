@@ -1,3 +1,11 @@
+---
+title: "steampunkmusicbox
+"
+author: "Maximus)"
+description: "a steampunk-retro themed speaker with native music payercapabilities using df player and be via blue module, everything here is controlled via knobs like real steampunk stuff"
+created_at: "26-06-25"
+---
+
 day -27 jun
 time speant-6.5
 created bom, 
