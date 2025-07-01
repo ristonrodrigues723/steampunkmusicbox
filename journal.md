@@ -99,11 +99,12 @@ finally-
  finishing the nets i ned to giv emore time more polish meand more work![image](https://github.com/user-attachments/assets/a7bcd324-3cb5-4ad8-b91b-c0c378b5001f)
  the tracking for today doesnt include the time for rendering whwerin onshape was stuack a lot![image](https://github.com/user-attachments/assets/68c15722-151c-4f0a-ac26-0d8be00111ff)
 
-1 jul 25 time spent-45 mins
+1 jul 25 time spent-1.5hrs
  finished handel discovered new feature for hest threaded inserts no more making holes and extruding direct using thr holes feature does the jongb better![image](https://github.com/user-attachments/assets/881a2346-12b4-4c72-ab88-1da3174b12bc)
 handel![image](https://github.com/user-attachments/assets/201796ba-3b08-4edf-9129-e284620be93a)
 
 
 
+ apperently creating bigger tubes inst possible fillet gives up![image](https://github.com/user-attachments/assets/20b66750-1416-4cc8-8232-3c94216e0f8c)
 
 
