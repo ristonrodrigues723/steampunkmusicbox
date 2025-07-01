@@ -27,7 +27,9 @@ man first time its without drc errors ![image](https://github.com/user-attachmen
 *Total time spent: 6.5hrs**
 
 
-day2 28 jun 
+
+
+day2 -28 jun:
 
 i forgot yo add a bluetooth module without that i would only work with sd cards so did that, also had to add ther amplifier with inbuilt knob resolving conflicts wkitrh potentiometer potentiomwer will now bw used to change colors intensity or modes.
 ![image](https://github.com/user-attachments/assets/1cb3b81c-e31d-4852-83f6-a0d939a63169)
@@ -42,6 +44,9 @@ finall;y ![image](https://github.com/user-attachments/assets/2f1b1be3-5d57-4e52-
  gotta import rest as right models weent available![image](https://github.com/user-attachments/assets/c827c82d-fbdb-4318-a1f5-860beea5debc)
 *Total time spent: 5hrs**
 
+ 
+ 
+ 
  day 3 -29 jun:
  found out all software the things libraries ill use, the no comprehensive software for me like one that letes me control boith wsdleds and the speaker too, 
  therre are pieces of software for individual like only dfplayer or only wsdled so had to learn hiw to combine both, 
@@ -77,10 +82,11 @@ need to add the long femal pins
 ![image](https://github.com/user-attachments/assets/1064010e-3f02-402c-9dc9-cf621541f91b) had to redo stuff
 ![image](https://github.com/user-attachments/assets/236300c6-b7df-4595-adb3-4502d3259065)still will tske ther whole day have to add accessories
 ![image](https://github.com/user-attachments/assets/6bb7fd88-3081-4424-a112-1c268526d4bc) finished basic steampunk theamed box what remains is the additions and look enhabncements
+![image](https://github.com/user-attachments/assets/fc72a60d-c8c6-48f8-987f-d8554be722b5)
 *Total time spent: 7.5hrs**
 
 
-![image](https://github.com/user-attachments/assets/fc72a60d-c8c6-48f8-987f-d8554be722b5)
+
 
 day 4 - 30june:
 speant 45 mins o pcb rendeing of nrw features took so muvh time i am mnow trying to remove pc but if i do the entirre sketcjkh throws errords, trying to replace it with dummy enclosure 
@@ -110,6 +116,11 @@ finally-
  finishing the nets i ned to giv emore time more polish meand more work![image](https://github.com/user-attachments/assets/a7bcd324-3cb5-4ad8-b91b-c0c378b5001f)
  the tracking for today doesnt include the time for rendering whwerin onshape was stuack a lot![image](https://github.com/user-attachments/assets/68c15722-151c-4f0a-ac26-0d8be00111ff)
  *Total time spent: 5hrs**
+
+
+
+
+ 
 
 day 4 -1 jul 25 :
  finished handel discovered new feature for heat threaded inserts no more making holes and extruding direct using the holes feature does the job better![image](https://github.com/user-attachments/assets/881a2346-12b4-4c72-ab88-1da3174b12bc)
