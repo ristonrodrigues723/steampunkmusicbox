@@ -108,5 +108,8 @@ handel![image](https://github.com/user-attachments/assets/201796ba-3b08-4edf-912
  apperently creating bigger tubes inst possible fillet gives up![image](https://github.com/user-attachments/assets/20b66750-1416-4cc8-8232-3c94216e0f8c)
  fixed the charging ports ![image](https://github.com/user-attachments/assets/7731531e-08db-4c70-9e08-41e462de39b4)
 
+ fits perfectly this will use more nuts and screws![image](https://github.com/user-attachments/assets/7edd2f40-951f-43d7-9a15-62ae041739ab)
+
+
 
 
