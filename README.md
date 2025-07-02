@@ -26,7 +26,7 @@ cost as requested in readme seperate on bom.csv:
 | **TP4056 Battery Charger C Type Module with Protection** | 1 | 14 | 14 | 0.17 | | Robocraze | [Link](https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1?variant=46170796261600) |
 | **Mini DF MP3 Player Module MP3-TF-16P** | 1 | 100 | 100 | 1.3 | | Robocraze | [Link](https://www.robocraze.com/products/mini-df-mp3-player-module-mp3-tf-16p) |
 | **Hook up Wire Packet (1 meter each)** | 1 | 49 | 49 | 0.59 | General purpose wiring | Robocraze | [Link](https://robocraze.com/products/single-stranded-hook-up-wires-1m-each-5-colors?variant=40193905590425) |
-| **Neopixel WS2812B Addressable RGB LED Strip - 5V - 60 LEDs per meter** | 1 | 250 | 250 | 2.99 | Price includes shipping from Hubtronics. Replaces previous Neopixel entry. | Hubtronics(no longer accepting hcb) | generic amazon the vendor stopped acceptinh hcb cards|
+| **Neopixel WS2812B Addressable RGB LED Strip - 5V - 60 LEDs per meter** | 1 | 250 | 250 | 2.99 | hubtroonics sropped usingh hcb wiill ned to find replcement its more costly man | Hubtronics(no longer accepting hcb) | generic amazon the vendor stopped acceptinh hcb cards|
 | **Custom PCBs (JLCPCB)** | 1 | 1252.51 | 1252.51 | 15 | jlc if coupon then this goes back to hc | JLCPCB | [Link](https://jlcpcb.com/) |
 | **3D Printed Parts (printing legion)** | 1 | 650 | 650 | 7.78 | printing legion postage | Local 3D Printing Service | |
 | **GRANOTONE Acrylic Venezia Metallic Colour - Gold (100ml)** | 1 | 195 | 195 | 2.34 | color golden for actual steam punk look | Amazon.in | [Link](https://www.amazon.in/GRANOTONE-Non-Fading-Shimmering-Non-Toxic-Beginners/dp/B0BGZSSC91/) |
