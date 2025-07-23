@@ -36,13 +36,14 @@ cost as requested in readme seperate on bom.csv:
 | **HP 64GB MicroSD Memory Card SDXC mx310 Class 10, UHS-I, U1 Card** | 1 | 500 | 500 | 5.83 | theres a sale normally normally sandisk costs 459 for 32 and 359 for 16this is best if told il change it | Amazon.in | [Link](https://www.amazon.in/HP-MicroSD-U1-TF-Card-64GB/dp/B07DJGB43S/ref=sr_1_9?crid=1ABKS9PU32OGL&dib=eyJ2IjoiMSJ9.IsM3djobeZY5o6Iv-mb-j-Ucuxco_AxhJ5rkcCYXosWimIimjPnVaVjvV0JGLbmUYSiEZq_aEl7y9nqpsLifCusXShTRvIGZ47BtJc50j6xAb9ralKA8FxNk1DCbRM_rD2AoTys2dbENCGF2i8PjHMHuzh7vbzgiOU9yA7wKJtzT8Ilg3J1LWjp889iDJGePXYlsL8tufZYEJSiA7c6-uVXqllh8CXoLe0jkOpgqnNc.Ar3zHgTAEtJYaAfQL9f-p7tfY1i2BHhcxdnJKDK8DIc&dib_tag=se&keywords=sd%2Bcard%2B32%2Bgb&qid=1751294355&sprefix=sd%2Bcard%2B32%2Bgb%2Caps%2C301&sr=8-9&th=1) |
 | **RGB Common Anode LEDs** | 1 | 29 | 29 | 0.45 | | Robocraze | [Link](https://robocraze.com/products/rgb-led-common-anode-pack-of-10?_pos=6&_psq=rgb&_ss=e&_v=1.0) |
 | **CD4053 Triple 2-Channel Multiplexer Demultiplexer IC** | 1 | 21 | 21 | 0.3 | the most imp forgot | Robocraze | [Link](https://robocraze.com/products/triple-2-channel-multiplexer-demultiplexer-ic-cd4053?srsltid=AfmBOoqWgHFzE7g3cF_yN2gs-OXKUIKCgStELipDREF_zLGEyn-iDY6c) |
+| **PAM8403 Mini 5V Digital Amplifier Board With Switch Potentiometer** | 1 | 62 | 62 | 0.75 | this is the oam amplidier in the pxb was addd in jounal but not added here the bill remains same as earlier | Robocraze | [Link]([https://robocraze.com/products/triple-2-channel-multiplexer-demultiplexer-ic-cd4053?srsltid=AfmBOoqWgHFzE7g3cF_yN2gs-OXKUIKCgStELipDREF_zLGEyn-iDY6c](https://www.importdukan.com/pam8403-mini-5v-digital-amplifier-board-with-switch-potentiometer)) |
 
 ---
 
 
 
 * **Total Component Cost (INR):** ₹5180.51
-* **Total Component Cost (USD):** $65.96
+* **Total Component Cost (USD):** $66.96
 
 
 
