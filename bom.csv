@@ -9,7 +9,7 @@ Wire (black) - 5 meters (speaker),1,41,41,0.49,speaker wire,Robocraze,https://ro
 Solder Wire-1 Meter (10gm),1,15,15,0.18,,Robocraze,https://robocraze.com/products/soldering-wire10gm?variant=40192347046041
 40x1 Female Berg Strip,3,9,27,0.32,,Robocraze,https://robocraze.com/products/40x1-female-berg-strip?variant=40192367689881
 40x1 Pin 2.54mm Pitch Male Berg Strip,3,7,21,0.25,,Robocraze,https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip?variant=43046522650848
-100uF / 25V Electrolytic Capacitor (Pack of 5),1,22,22,0.26,,Robocraze,https://robocraze.com/products/100uf-25v-electrolytic-capacitor-pack-of-5?variant=43438816395488
+100uF / 25V Electrolytic Capacitor (Pack of 10 -5 wasnt available),1,33,33,0.38,,Robocraze,https://robocraze.com/products/100uf-25v-electrolytic-capacitor-pack-of-5?variant=43438816395488
 Rotary Encoder Module,4,44,176,2.11,,Robocraze,https://robocraze.com/products/rotary-encoder-module?variant=40193048543385
 3.7v 2500mah 18650 Li-Ion Battery,2,137,274,3.28,,Robocraze,https://robocraze.com/products/3-7v-2500mah-18650-li-ion-battery?variant=43194107920608
 Slide Switch 3 Pin 2 Way SPDT,1,14,14,0.17,,Robocraze,https://robocraze.com/products/slide-switch-3-pin-2-way-spdt?variant=44698610237664
@@ -26,5 +26,9 @@ Immech - M3 x 5mm Brass Insert Nut Knurled Nuts Threaded Female For Molding,1,17
 "HP 64GB MicroSD Memory Card SDXC mx310 Class 10, UHS-I, U1 Card, Upto 100MB/s R, 10 Y Warranty",1,500,500,5.83,theres a sale normally normally sandisk costs 459 for 32 and 359 for 16this is best if told il change it,Amazon.in,https://www.amazon.in/HP-MicroSD-U1-TF-Card-64GB/dp/B07DJGB43S/ref=sr_1_9?crid=1ABKS9PU32OGL&dib=eyJ2IjoiMSJ9.IsM3djobeZY5o6Iv-mb-j-Ucuxco_AxhJ5rkqCYXosWimIimjPnVaVjvV0JGLbmUYSiEZq_aEl7y9nqpsLifCusXShTRvIGZ47BtJc50j6xAb9ralKA8FxNk1DCbRM_rD2AoTys2dbENCGF2i8PjHMHuzh7vbzgiOU9yA7wKJtzT8Ilg3J1LWjp889iDJGePXYlsL8tufZYEJSiA7c6-uVXqllh8CXoLe0jkOpgqnNc.Ar3zHgTAEtJYaAfQL9f-p7tfY1i2BHhcxdnJKDK8DIc&dib_tag=se&keywords=sd%2Bcard%2B32%2Bgb&qid=1751294355&sprefix=sd%2Bcard%2B32%2Bgb%2Caps%2C301&sr=8-9&th=1
 rgb comon andoe lifghts,1,29,29,0.45,,robocraze,https://robocraze.com/products/rgb-led-common-anode-pack-of-10?_pos=6&_psq=rgb&_ss=e&_v=1.0
 cd4053,1,21,21,0.3,the most imp forgot,robocraze,https://robocraze.com/products/triple-2-channel-multiplexer-demultiplexer-ic-cd4053?srsltid=AfmBOoqWgHFzE7g3cF_yN2gs-OXKUIKCgStELipDREF_zLGEyn-iDY6c
+**PAM8403 Mini 5V Digital Amplifier Board With Switch Potentiometer ,1,62,62,0.75,this is the pam amplidier in the pcb was addd in jounal but not added here the bill remains same as earlier ,import dukan,[https://robocraze.com/products/triple-2-channel-multiplexer-demultiplexer-ic-cd4053?srsltid=AfmBOoqWgHFzE7g3cF_yN2gs-OXKUIKCgStELipDREF_zLGEyn-iDY6c](https://www.importdukan.com/pam8403-mini-5v-digital-amplifier-board-with-switch-potentiometer)
+rosin paste,1,33,33,.38, soldering paste,robocraze,https://robocraze.com/products/noel-solder-paste-flux-10gm-pack-white
 ,total,5180.51,5499.51,65.96,,,
-,total with dilevery and price increase,,,68,,,
+,total with dilevery and price increase,,,70,,,
+
+
